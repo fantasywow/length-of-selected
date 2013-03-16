@@ -1,0 +1,10 @@
+{
+  "name": "Length of Selected",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Show the length of text that selected",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["lengthofselected.js"]
+  }
+}
